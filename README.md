@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Web Site to search a Lyrics
+Open [Lyrics](https://quizzical-lichterman-91fc36.netlify.app/) to view it in the browser.
 
 ## Available Scripts
 
